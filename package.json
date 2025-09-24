@@ -1,0 +1,12 @@
+{
+  "name": "ytjs-transcript-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "youtubei.js": "^15.1.1"
+  }
+}
